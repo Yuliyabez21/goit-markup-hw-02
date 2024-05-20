@@ -144,10 +144,12 @@ font-weight: 700;
 
 .hero-btn:hover {
     background: #404bbf;
+    color: #404bbf;
 }
 
 .hero-btn:focus {
     background: #404bbf;
+    color: #404bbf;
 }
 
 /* ------------------- */
