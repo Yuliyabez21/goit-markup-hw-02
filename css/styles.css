@@ -15,7 +15,7 @@ a {
     text-decoration: none;
 }
 
-.section {
+.features {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -164,19 +164,19 @@ font-weight: 700;
 /* ------------------- */
 /* -----------FEATURES---------------- */
 
-.section {}
+.features {}
 
 .visually-hidden {}
 
-.section-list {}
+.features-list {}
 
-.section-item {}
+.features-item {}
 
-.section-subtitle {
+.features-subtitle {
     color: #2e2f42;
 }
 
-.section-item-text {
+.features-item-text {
     line-height: 1.5;
     letter-spacing: 0.02em;    
     color: #434455;
@@ -186,26 +186,26 @@ font-weight: 700;
 /* ------------------- */
 /* -----------TEAM---------------- */
 
-.section {
+.team {
     background-color: #F4F4FD
 }
 
-.section-title {
+.team-title {
     text-transform: capitalize;
     color: #2e2f42;
 }
 
-.section-list>li {
+.team-list>li {
     background-color: #FFFFFF;
 }
 
-.section-item {
+.team-item {
 background-color: #FFFFFF;
 }
 
-.section-image {}
+.team-image {}
 
-.section-subtitle {
+.team-subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -213,7 +213,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.section-item-text {
+.team-item-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
         text-align: center;
@@ -224,7 +224,7 @@ background-color: #FFFFFF;
 /* ------------------- */
 /* -----------PORTFOLIO---------------- */
 
-.section {
+.features {
     font-weight: 700;
         text-transform: capitalize;
         font-size: 36px;
@@ -234,15 +234,15 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
     
-.section-title {
+.features-title {
 
 }
 
-.section-list {}
+.features-list {}
 
-.section-image {}
+.features-image {}
 
-.section-subtitle {
+.features-subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -251,28 +251,35 @@ background-color: #FFFFFF;
     }
 
 
-.section-item-text {
+.features-item-text {}
+
+.features-item {}
+
+
+.portfolio {}
+
+.portfolio-list {}
+
+.portfolio-item {}
+
+
+
+/* /* .portfolio-subtitle {
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+} */
+
+.portfolio-item-text {
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
 
-.section-item {}
-
-
-.section {}
-
-.section-list {}
-
-.section-item {}
-
-
-.section-item-text {
-    
-}
-
-.section-image {} */
+.portfolio-image {} */
 
 /* ------------------- */
 /* -----------FOOTER---------------- */
