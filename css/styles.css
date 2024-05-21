@@ -192,6 +192,7 @@ font-weight: 700;
 
 .team-title {
     text-transform: capitalize;
+    background-color: #F4F4FD;
     color: #2e2f42;
 }
 
