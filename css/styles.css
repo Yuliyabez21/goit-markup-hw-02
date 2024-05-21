@@ -15,7 +15,7 @@ a {
     text-decoration: none;
 }
 
-.features {
+.section {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -164,19 +164,19 @@ font-weight: 700;
 /* ------------------- */
 /* -----------FEATURES---------------- */
 
-.features {}
+.section {}
 
 .visually-hidden {}
 
-.features-list {}
+.section-list {}
 
-.features-item {}
+.section-item {}
 
-.features-subtitle {
+.section-subtitle {
     color: #2e2f42;
 }
 
-.features-item-text {
+.section-item-text {
     line-height: 1.5;
     letter-spacing: 0.02em;    
     color: #434455;
@@ -186,26 +186,26 @@ font-weight: 700;
 /* ------------------- */
 /* -----------TEAM---------------- */
 
-.team {
+.section {
     background-color: #F4F4FD
 }
 
-.team-title {
+.section-title {
     text-transform: capitalize;
     color: #2e2f42;
 }
 
-.team-list>li {
+.section-list>li {
     background-color: #FFFFFF;
 }
 
-.team-item {
+.section-item {
 background-color: #FFFFFF;
 }
 
-.team-image {}
+.section-image {}
 
-.team-subtitle {
+.section-subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -213,7 +213,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.team-item-text {
+.section-item-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
         text-align: center;
@@ -224,7 +224,7 @@ background-color: #FFFFFF;
 /* ------------------- */
 /* -----------PORTFOLIO---------------- */
 
-.features {
+.section {
     font-weight: 700;
         text-transform: capitalize;
         font-size: 36px;
@@ -234,15 +234,15 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
     
-.features-title {
+.section-title {
 
 }
 
-.features-list {}
+.section-list {}
 
-.features-image {}
+.section-image {}
 
-.features-subtitle {
+.section-subtitle {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -251,28 +251,28 @@ background-color: #FFFFFF;
     }
 
 
-.features-item-text {
+.section-item-text {
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
 
-.features-item {}
+.section-item {}
 
 
-.portfolio {}
+.section {}
 
-.portfolio-list {}
+.section-list {}
 
-.portfolio-item {}
+.section-item {}
 
 
-.portfolio-item-text {
+.section-item-text {
     
 }
 
-.portfolio-image {} */
+.section-image {} */
 
 /* ------------------- */
 /* -----------FOOTER---------------- */
