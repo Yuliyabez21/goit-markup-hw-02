@@ -189,6 +189,7 @@ font-weight: 700;
 .team {
     background-color: #F4F4FD;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .team-title {
@@ -237,7 +238,13 @@ background-color: #FFFFFF;
 }
     
 .features-title {
-
+font-weight: 700;
+    text-transform: capitalize;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 
 .features-list {}
@@ -253,7 +260,12 @@ background-color: #FFFFFF;
     }
 
 
-.features-item-text {}
+.features-item-text {
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 
 .features-item {}
 
@@ -275,10 +287,7 @@ font-weight: 500;
 } */
 
 .portfolio-item-text {
-    font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    
 }
 
 .portfolio-image {} */
@@ -298,6 +307,7 @@ font-weight: 700;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+    background-color: #2e2f42;
 }
 
 .footer-logo-color {
