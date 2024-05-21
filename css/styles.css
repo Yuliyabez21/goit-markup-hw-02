@@ -163,25 +163,25 @@ font-weight: 700;
 
 /* ------------------- */
 /* -----------FEATURES---------------- */
-.feature {
-            font-weight: 500;
-            font-size: 20px;
-            line-height: 1.2;
-            letter-spacing: 0.02em;
-            color: #2e2f42;
-        }
 
-.feature-list {}
+.features {}
 
-.feature-image {}
+.visually-hidden {}
 
-.feature-subtitle {}
+.features-list {}
 
+.features-item {}
 
-.feature-item-text {}
+.features-subtitle {
+    color: #2e2f42;
+}
 
+.features-item-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;    
+    color: #434455;
 
-.feature-item {}
+}
 
 /* ------------------- */
 /* -----------TEAM---------------- */
@@ -223,6 +223,26 @@ background-color: #FFFFFF;
 
 /* ------------------- */
 /* -----------PORTFOLIO---------------- */
+
+.features {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.feature-list {}
+
+.feature-image {}
+
+.feature-subtitle {}
+
+
+.feature-item-text {}
+
+.feature-item {}
+
 
 .portfolio {}
 
