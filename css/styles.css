@@ -226,6 +226,7 @@ background-color: #FFFFFF;
 
 .features {
     font-weight: 500;
+    text-transform: capitalize;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -252,7 +253,6 @@ background-color: #FFFFFF;
 
 .features-title {
     font-weight: 700;
-    text-transform: capitalize;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
