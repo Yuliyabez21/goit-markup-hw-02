@@ -251,7 +251,12 @@ background-color: #FFFFFF;
     }
 
 
-.features-item-text {}
+.features-item-text {
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
 
 .features-item {}
 
@@ -263,20 +268,8 @@ background-color: #FFFFFF;
 .portfolio-item {}
 
 
-
-/* /* .portfolio-subtitle {
-font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-} */
-
 .portfolio-item-text {
-    font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    
 }
 
 .portfolio-image {} */
