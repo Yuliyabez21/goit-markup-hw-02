@@ -163,25 +163,25 @@ font-weight: 700;
 
 /* ------------------- */
 /* -----------FEATURES---------------- */
+.feature {
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            color: #2e2f42;
+        }
 
-.features {}
+.feature-list {}
 
-.visually-hidden {}
+.feature-image {}
 
-.features-list {}
+.feature-subtitle {}
 
-.features-item {}
 
-.features-subtitle {
-    color: #2e2f42;
-}
+.feature-item-text {}
 
-.features-item-text {
-    line-height: 1.5;
-    letter-spacing: 0.02em;    
-    color: #434455;
 
-}
+.feature-item {}
 
 /* ------------------- */
 /* -----------TEAM---------------- */
