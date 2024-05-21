@@ -100,7 +100,7 @@ font-weight: 700;
         color: #2e2f42;
 }
 
-.header-address {
+.address {
     font-style: normal;
 }
 
@@ -112,7 +112,7 @@ font-weight: 700;
 
 } 
 
-.header-address-link {
+.address-link {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -170,13 +170,12 @@ font-weight: 700;
 
 .features-list {}
 
-.features-item {}
 
 .features-subtitle {
     color: #2e2f42;
 }
 
-.features-item-text {
+.features-text {
     line-height: 1.5;
     letter-spacing: 0.02em;    
     color: #434455;
@@ -202,9 +201,6 @@ font-weight: 700;
     background-color: #FFFFFF;
 }
 
-.team-item {
-background-color: #FFFFFF;
-}
 
 .team-image {}
 
@@ -216,7 +212,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
 }
 
-.team-item-text {
+.team-text {
     line-height: 1.5;
     letter-spacing: 0.02em;
         text-align: center;
@@ -260,21 +256,20 @@ font-weight: 700;
     }
 
 
-.features-item-text {
+.features-text {
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
 
-.features-item {}
 
 
 .portfolio {}
 
 .portfolio-list {}
 
-.portfolio-item {}
+
 
 
 
@@ -286,9 +281,7 @@ font-weight: 500;
     color: #2e2f42;
 } */
 
-.portfolio-item-text {
-    
-}
+
 
 .portfolio-image {} */
 
