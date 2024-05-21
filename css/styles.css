@@ -53,6 +53,14 @@ a {
         color: #434455;
 }
 
+.header-menu-link:hover {
+color: #404bbf;
+}
+
+.header-menu-link:focus {
+    color: #404bbf;
+}
+
 .header-address-link:hover {
     color: #404bbf;
 
@@ -98,12 +106,12 @@ font-weight: 700;
 }
 
 .header-address-list {
-font-style: normal;
+
 }
 
 .header-address-item {
-font-style: normal;
-}
+
+} 
 
 .header-address-link {
     font-style: normal;
