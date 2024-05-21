@@ -227,22 +227,29 @@ background-color: #FFFFFF;
 .features {
     font-weight: 500;
     text-transform: capitalize;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
 }
+    
 
-.feature-list {}
+.features-list {}
 
-.feature-image {}
+.features-image {}
 
-.feature-subtitle {}
+.features-subtitle {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+    }
 
 
-.feature-item-text {}
+.features-item-text {}
 
-.feature-item {}
+.features-item {}
 
 
 .portfolio {}
@@ -260,13 +267,13 @@ background-color: #FFFFFF;
         color: #2e2f42;
     }
 
-/* .portfolio-subtitle {
+/* /* .portfolio-subtitle {
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
+} */
 
 .portfolio-item-text {
     font-size: 16px;
