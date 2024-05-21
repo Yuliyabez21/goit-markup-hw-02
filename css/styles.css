@@ -187,7 +187,8 @@ font-weight: 700;
 /* -----------TEAM---------------- */
 
 .team {
-    background-color: #F4F4FD
+    background-color: #F4F4FD;
+    text-transform: capitalize;
 }
 
 .team-title {
