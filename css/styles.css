@@ -250,7 +250,7 @@ background-color: #FFFFFF;
 
 .portfolio-item {}
 
-.portfolio-title {
+.features-title {
     font-weight: 700;
     text-transform: capitalize;
         font-size: 36px;
@@ -260,7 +260,7 @@ background-color: #FFFFFF;
         color: #2e2f42;
     }
 
-.portfolio-subtitle {
+/* .portfolio-subtitle {
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -275,7 +275,7 @@ font-weight: 500;
         color: #434455;
 }
 
-.portfolio-image {}
+.portfolio-image {} */
 
 /* ------------------- */
 /* -----------FOOTER---------------- */
