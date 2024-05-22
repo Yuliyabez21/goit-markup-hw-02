@@ -186,10 +186,11 @@ font-weight: 700;
 
 .team-title {
     font-weight: 500;
-        font-size: 20px;
-        line-height: 120%;
-        letter-spacing: 0.02em;
-        text-align: center;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 111%;
+    letter-spacing: 0.02em;
+    text-align: center;
     text-transform: capitalize;
     background-color: #F4F4FD;
     color: #2e2f42;
