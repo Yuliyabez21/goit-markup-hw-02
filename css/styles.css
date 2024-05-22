@@ -16,37 +16,9 @@ a {
 }
 
 .features {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+    
 }
 
-
-.title {
-    font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
-}
-
-.subtitle {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
-}
-
-.text {
-    font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
-}
 
 .header-menu-link:hover {
 color: #404bbf;
@@ -173,21 +145,34 @@ font-weight: 700;
 /* ------------------- */
 /* -----------FEATURES---------------- */
 
-.features {}
+.features {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 
-.visually-hidden {}
+/* .visually-hidden {} */
 
 .features-list {}
 
 
 .features-subtitle {
-    color: #2e2f42;
+    font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
 }
 
 .features-text {
-    line-height: 1.5;
-    letter-spacing: 0.02em;    
-    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
 
 }
 
@@ -214,14 +199,15 @@ font-weight: 700;
 .team-image {}
 
 .team-subtitle {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        color: #2e2f42;
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .team-text {
+    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
         text-align: center;
@@ -266,6 +252,7 @@ font-weight: 700;
 
 
 .features-text {
+    font-weight: 400;
     font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
@@ -278,20 +265,6 @@ font-weight: 700;
 
 .portfolio-list {}
 
-
-
-
-
-/* /* .portfolio-subtitle {
-font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-} */
-
-
-
 .portfolio-image {} */
 
 /* ------------------- */
@@ -303,7 +276,7 @@ font-weight: 500;
 
 .footer-logo {
     font-family: "Raleway", sans-serif;
-font-weight: 700;
+    font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
